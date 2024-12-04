@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # プロジェクトの概要
 # 改めてgithubの学習
 
@@ -47,3 +48,6 @@ request.py
 response.py
 description.py
 place.py
+=======
+# chatgpt
+>>>>>>> 41354cff8aff4e5ebb2590fafb56b93ac5677ce3
