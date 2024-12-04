@@ -26,6 +26,14 @@ git　commit -m "コミットメッセージ"
 
 git push
 
+# mainブランチにマージしてプッシュ
+違うブランチにいる場合
+git checkout main
+
+git merge マージしたいブランチ名
+
+git push origin main
+
 # スマプロハッカソンで作成したプログラム
 main.py
 chatgpt.py
