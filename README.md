@@ -34,6 +34,11 @@ git merge マージしたいブランチ名
 
 git push origin main
 
+強制プッシュ
+git push origin プッシュしたいブランチ:main
+
+
+
 # スマプロハッカソンで作成したプログラム
 main.py
 chatgpt.py
