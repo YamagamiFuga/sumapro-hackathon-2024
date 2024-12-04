@@ -1,5 +1,5 @@
 # プロジェクトの概要
-改めてgithubの学習
+# 改めてgithubの学習
 
 ローカルリポジトリを初期化する	git init
 
@@ -26,4 +26,11 @@ git　commit -m "コミットメッセージ"
 
 git push
 
-
+# スマプロハッカソンで作成したプログラム
+main.py
+chatgpt.py
+googlemap_api.py
+request.py
+response.py
+description.py
+place.py
